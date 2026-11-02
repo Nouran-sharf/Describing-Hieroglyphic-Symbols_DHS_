@@ -51,7 +51,7 @@ The **Kokoro Text-to-Speech (TTS)** system converts the retrieved English descri
 - Text preprocessing is applied before audio generation.
 - Provides spoken explanations to make the information more accessible to visitors.
 
-The project report states a user satisfaction score of 4.3/5 for the audio experience.
+
 
 ### 4. Mobile Application – Flutter
 
